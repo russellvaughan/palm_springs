@@ -1,0 +1,19 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "chatrooms";
+@import "messages";
+@import "users";
+@import "countdown";
+
+body {
+    background-image: url("/background.jpg");
+}
+
+.navbar {
+	 background: #fff;
+}
+
+.auth-form.well {
+	background:  #7899AC;
+	opacity: 0.8
+}
