@@ -6,14 +6,16 @@
 @import "countdown";
 
 body {
-    background-image: url("/background.jpg");
+background-image: url("/background.jpg");
+height: auto;
+width: 100%;
 }
 
 .navbar {
-	 background: #fff;
+background: #fff;
 }
 
 .auth-form.well {
-	background:  #7899AC;
-	opacity: 0.8
+background:  #7899AC;
+opacity: 0.8
 }
