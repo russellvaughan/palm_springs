@@ -7,8 +7,9 @@
 
 body {
 background-image: url("/background.jpg");
-height: auto;
-width: 100%;
+background-repeat:no-repeat;
+background-size:contain;
+background-position:center;
 }
 
 .navbar {
